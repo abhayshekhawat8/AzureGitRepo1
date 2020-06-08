@@ -1,0 +1,1 @@
+This is to check the content of a file altered in local machine than pushed to the cloud.
